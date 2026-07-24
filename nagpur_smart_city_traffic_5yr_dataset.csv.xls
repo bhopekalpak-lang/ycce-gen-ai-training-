@@ -1,0 +1,51 @@
+Year,Junction,Daily_Avg_Vehicles,Peak_Hour_Window,Avg_Signal_Delay_Sec,Annual_Accidents_Reported
+2021,Sitabuldi Interchange / Variety Square,60795,08:30 - 10:30 AM,118,38
+2021,Chhatrapati Square (Wardha Road),56284,09:00 - 11:00 AM,128,35
+2021,Loco Shed / Ajni Flyover Junction,39423,05:30 - 08:00 PM,80,15
+2021,Automotive Square (Kambhee Road),45769,05:30 - 08:00 PM,113,37
+2021,Ravi Nagar Square (Amravati Road),30311,05:30 - 08:00 PM,65,7
+2021,Manewada Ring Road Square,41396,09:00 - 11:00 AM,113,21
+2021,Medical Square,37747,09:00 - 11:00 AM,85,28
+2021,Indora Square (Kamptee Road),38005,08:30 - 10:30 AM,113,24
+2021,Sadar / Katol Road Square,36394,08:30 - 10:30 AM,81,10
+2021,Rahate Colony Square,39502,05:30 - 08:00 PM,62,12
+2022,Sitabuldi Interchange / Variety Square,56638,05:30 - 08:00 PM,152,25
+2022,Chhatrapati Square (Wardha Road),64434,08:30 - 10:30 AM,100,32
+2022,Loco Shed / Ajni Flyover Junction,28180,05:30 - 08:00 PM,87,10
+2022,Automotive Square (Kambhee Road),59153,09:00 - 11:00 AM,136,22
+2022,Ravi Nagar Square (Amravati Road),33785,06:00 - 08:30 PM,91,8
+2022,Manewada Ring Road Square,49326,08:30 - 10:30 AM,80,25
+2022,Medical Square,46140,08:30 - 10:30 AM,120,19
+2022,Indora Square (Kamptee Road),43810,08:30 - 10:30 AM,118,21
+2022,Sadar / Katol Road Square,43934,08:30 - 10:30 AM,71,13
+2022,Rahate Colony Square,28648,09:00 - 11:00 AM,54,12
+2023,Sitabuldi Interchange / Variety Square,57944,09:00 - 11:00 AM,104,26
+2023,Chhatrapati Square (Wardha Road),56999,06:00 - 08:30 PM,141,29
+2023,Loco Shed / Ajni Flyover Junction,37399,06:00 - 08:30 PM,56,18
+2023,Automotive Square (Kambhee Road),53148,06:00 - 08:30 PM,122,27
+2023,Ravi Nagar Square (Amravati Road),40280,08:30 - 10:30 AM,76,9
+2023,Manewada Ring Road Square,48283,05:30 - 08:00 PM,89,18
+2023,Medical Square,39762,09:00 - 11:00 AM,89,18
+2023,Indora Square (Kamptee Road),57046,08:30 - 10:30 AM,109,20
+2023,Sadar / Katol Road Square,41868,08:30 - 10:30 AM,51,11
+2023,Rahate Colony Square,29879,09:00 - 11:00 AM,93,12
+2024,Sitabuldi Interchange / Variety Square,64798,05:30 - 08:00 PM,156,47
+2024,Chhatrapati Square (Wardha Road),64651,06:00 - 08:30 PM,163,46
+2024,Loco Shed / Ajni Flyover Junction,45938,09:00 - 11:00 AM,98,12
+2024,Automotive Square (Kambhee Road),74395,09:00 - 11:00 AM,164,49
+2024,Ravi Nagar Square (Amravati Road),31041,05:30 - 08:00 PM,63,15
+2024,Manewada Ring Road Square,47825,09:00 - 11:00 AM,87,25
+2024,Medical Square,57283,05:30 - 08:00 PM,126,24
+2024,Indora Square (Kamptee Road),45198,06:00 - 08:30 PM,132,31
+2024,Sadar / Katol Road Square,43245,06:00 - 08:30 PM,52,7
+2024,Rahate Colony Square,35089,06:00 - 08:30 PM,80,11
+2025,Sitabuldi Interchange / Variety Square,64966,08:30 - 10:30 AM,104,42
+2025,Chhatrapati Square (Wardha Road),78232,06:00 - 08:30 PM,133,24
+2025,Loco Shed / Ajni Flyover Junction,31250,06:00 - 08:30 PM,70,12
+2025,Automotive Square (Kambhee Road),65443,06:00 - 08:30 PM,110,43
+2025,Ravi Nagar Square (Amravati Road),42580,09:00 - 11:00 AM,57,10
+2025,Manewada Ring Road Square,61061,09:00 - 11:00 AM,102,24
+2025,Medical Square,57549,08:30 - 10:30 AM,117,18
+2025,Indora Square (Kamptee Road),50541,09:00 - 11:00 AM,125,17
+2025,Sadar / Katol Road Square,41112,05:30 - 08:00 PM,80,10
+2025,Rahate Colony Square,51641,06:00 - 08:30 PM,69,19
